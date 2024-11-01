@@ -1,7 +1,6 @@
 # Plate_recognition
 
-## Introduction
-
+## Group 5
 
 
 ## URL GITHUB
